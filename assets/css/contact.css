@@ -16,6 +16,7 @@ input[type=submit] {
     border: none;
     cursor: pointer;
     style: rectangle;
+    font-size: 16px;
 }
 
 #message {

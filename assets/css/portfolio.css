@@ -24,18 +24,7 @@
     background-color: #4aaaa5;
 }
 
-a:link {
-    text-decoration: none;
-}
-
-a:visitied {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: none;
-}
-
-a:active {
-    text-decoration: none;
+.image {
+    width: 300px;
+    height: 200px;
 }
